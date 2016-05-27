@@ -25,7 +25,7 @@ git clone https://github.com/chentsulin/electron-react-boilerplate.git your-proj
 And then install dependencies.
 
 ```bash
-$ cd your-project-name && npm install
+$ cd your-project-name && npm run init
 ```
 
 
